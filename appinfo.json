@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "david.lenk@live.de",
+    "enableMultiJS": true,
+    "longName": "pebble_parser",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/story_en.csv",
+                "name": "STORY",
+                "targetPlatforms": null,
+                "type": "raw"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "pebble_parser",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0d014bf8-8bf5-4927-be68-1b61ef15e718",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
